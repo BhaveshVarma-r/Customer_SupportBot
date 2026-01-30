@@ -1,0 +1,589 @@
+TECHGEAR ELECTRONICS - COMPLETE PRODUCT KNOWLEDGE BASE
+=====================================================
+
+=== SMARTWATCH CATEGORY ===
+
+Product: SmartWatch Pro X
+Price: ₹15,999
+Features: Heart rate monitor, GPS tracking, 7-day battery life, water resistant 50m, AMOLED display 1.4", fitness tracking (steps, calories, distance), sleep monitoring, stress level tracking, blood oxygen sensor, always-on display option, customizable watch faces, voice assistant integration
+Connectivity: Bluetooth 5.2, WiFi, NFC for payments
+Compatible with: Android 6.0+, iOS 12.0+
+Warranty: 1 year standard, 2 years extended available for ₹1,999
+Colors: Black, Silver, Gold, Rose Gold
+Battery type: Li-Ion rechargeable
+Storage: 8GB internal memory
+Dimensions: 45mm x 38mm, weight 45g
+Water resistance: 5ATM (50m depth)
+Charging time: 2 hours via magnetic charging dock
+Sensors: Accelerometer, Gyroscope, Compass, Barometer, Heart Rate, SPO2, Temperature
+Special features: ECG recording capability, Fall detection, Emergency SOS
+Warranty coverage: Manufacturing defects, battery replacement, hardware failures
+Not covered: Physical damage, water damage from misuse, unauthorized repairs
+Return window: 7 days from purchase
+Resale value: 60-70% of original price after 1 year
+
+Product: SmartWatch Pro Max
+Price: ₹22,999
+Features: All Pro X features plus: Titanium case, dual microphone, enhanced ECG, 10-day battery, LTPO AMOLED display 1.5", advanced health metrics
+Connectivity: Bluetooth 5.3, WiFi 6, NFC, Cellular (eSIM capable)
+Compatible with: Android 7.0+, iOS 13.0+
+Warranty: 1 year standard, 3 years extended for ₹3,499
+Colors: Titanium Black, Titanium Silver, Titanium Gold
+Battery type: Enhanced Li-Ion 500mAh
+Storage: 16GB internal memory
+Dimensions: 47mm x 40mm, weight 52g
+Water resistance: 10ATM (100m depth)
+Charging time: 1.5 hours
+Sensors: All Pro X plus Skin temperature
+Special features: Temperature monitoring, Blood pressure tracking, Advanced breathing exercises
+Warranty coverage: Covers all hardware, battery degradation (up to 20% loss), screen replacement
+Not covered: Cosmetic damage, battery degradation beyond 20%
+
+Product: SmartWatch Essential
+Price: ₹7,999
+Features: Basic fitness tracking, heart rate, step counter, sleep tracking, 5-day battery, water resistant 30m, IPS LCD display 1.1"
+Connectivity: Bluetooth 5.0
+Compatible with: Android 5.0+, iOS 11.0+
+Warranty: 6 months standard, 1 year extended for ₹999
+Colors: Black, White, Blue
+Battery type: Li-Ion rechargeable
+Storage: 512MB
+Dimensions: 40mm x 35mm, weight 35g
+Water resistance: 3ATM (30m depth)
+Charging time: 3 hours via USB charging
+Sensors: Accelerometer, Heart Rate
+Special features: Multiple sport modes (10+), vibration alerts, SMS/call notifications
+Return window: 7 days
+Warranty coverage: Manufacturing defects only
+Not covered: Physical damage, battery issues
+
+Product: SmartWatch Kids Edition
+Price: ₹4,999
+Features: GPS location tracking, two-way calling, SOS button, activity tracking, 3-day battery, durable silicone band, IP68 waterproof (not submersible)
+Connectivity: Bluetooth 5.0, LTE capable (requires additional SIM)
+Compatible with: Android 5.0+, iOS 10.0+
+Warranty: 1 year standard
+Colors: Red, Blue, Green, Pink
+Battery type: Li-Ion 400mAh
+Storage: 256MB
+Dimensions: 38mm x 33mm, weight 30g
+Water resistance: IP68 (splashproof, not for swimming)
+Charging time: 2 hours
+Special features: Parental controls, geofencing, school time mode, emergency alerts
+Return window: 7 days
+Warranty coverage: Manufacturing defects, battery replacement
+Not covered: Damage from drops, water damage beyond rating
+
+Product: SmartWatch Fitness Pro
+Price: ₹12,999
+Features: Advanced fitness metrics, VO2 Max estimation, training load analysis, recovery time recommendation, 6-day battery, water resistant 100m
+Connectivity: Bluetooth 5.1, WiFi
+Compatible with: Android 6.0+, iOS 12.0+
+Warranty: 1 year standard, 2 years extended for ₹1,499
+Colors: Black, Midnight Blue, Forest Green
+Battery type: Li-Ion 450mAh
+Storage: 4GB
+Dimensions: 44mm x 37mm, weight 42g
+Water resistance: 10ATM (100m depth)
+Charging time: 2 hours
+Sensors: Accelerometer, Gyroscope, Compass, Barometer, Heart Rate, SPO2
+Special features: 100+ sport modes, altitude training, lactate threshold alerts
+Return window: 7 days
+Warranty coverage: Hardware defects, battery replacement up to 80% capacity
+
+=== WIRELESS EARBUDS CATEGORY ===
+
+Product: Wireless Earbuds Elite
+Price: ₹4,999
+Features: Active Noise Cancellation (ANC), 24-hour total battery (8 hours earbud + 16 hours case), Bluetooth 5.2, touch controls, ambient mode
+Connectivity: Bluetooth 5.2, 2.4GHz wireless
+Compatible with: All Bluetooth enabled devices
+Warranty: 6 months standard, 1 year extended for ₹999
+Colors: Black, White, Navy Blue
+Battery per charge: 8 hours (ANC on), 12 hours (ANC off)
+Case battery: 16 hours charging capacity
+Charging time: 2 hours per earbud, 3 hours full case
+Weight: 5.2g per earbud
+IPX rating: IPX4 (splash resistant)
+Drivers: 10mm dynamic driver
+Frequency response: 20Hz - 20kHz
+Codec support: SBC, AAC
+Special features: Auto pause on removal, proximity sensor, volume sync
+Return window: 7 days
+Warranty coverage: Battery defects (up to 10% loss acceptable), hardware defects
+Not covered: Physical damage, water damage beyond IPX4, battery degradation >10%
+
+Product: Wireless Earbuds Premium Pro
+Price: ₹8,999
+Features: Premium ANC, 32-hour total battery, Bluetooth 5.3, multi-device connection, wireless charging case, spatial audio
+Connectivity: Bluetooth 5.3, 2.4GHz, WiFi direct
+Compatible with: All Bluetooth enabled devices, iOS 16+, Android 12+
+Warranty: 1 year standard, 2 years extended for ₹1,999
+Colors: Black, Silver, Champagne Gold, Rose Gold
+Battery per charge: 10 hours (ANC on), 15 hours (ANC off)
+Case battery: 32 hours charging capacity
+Charging time: 1.5 hours per earbud, 2.5 hours full case
+Weight: 4.8g per earbud
+IPX rating: IPX5 (water resistant for workouts)
+Drivers: Dual 8mm drivers
+Frequency response: 20Hz - 20kHz
+Codec support: SBC, AAC, aptX, aptX Adaptive, LDAC
+Special features: Spatial audio, conversation awareness, adaptive ANC, find my earbuds
+Return window: 7 days
+Warranty coverage: Battery defects (up to 5% loss acceptable), hardware, ANC functionality
+Not covered: Physical damage, water damage beyond IPX5
+
+Product: Wireless Earbuds Budget
+Price: ₹1,999
+Features: Basic ANC, 18-hour total battery, Bluetooth 5.0, touch controls, lightweight design
+Connectivity: Bluetooth 5.0
+Compatible with: All Bluetooth enabled devices
+Warranty: 3 months standard, 6 months extended for ₹499
+Colors: Black, White
+Battery per charge: 5 hours (ANC on), 8 hours (ANC off)
+Case battery: 18 hours charging
+Charging time: 2.5 hours per earbud, 4 hours full case
+Weight: 6g per earbud
+IPX rating: IPX3 (light sweat and splash resistant)
+Drivers: 6mm driver
+Frequency response: 50Hz - 16kHz
+Codec support: SBC, AAC
+Special features: Basic touch controls, LED battery indicator
+Return window: 7 days
+Warranty coverage: Manufacturing defects only
+Not covered: Physical damage, battery issues
+
+Product: Wireless Earbuds Sports Elite
+Price: ₹6,999
+Features: Ultra-durable ANC, 28-hour battery, Bluetooth 5.2, secure ear hooks, sweat resistant, heart rate sensor integration
+Connectivity: Bluetooth 5.2
+Compatible with: All devices with Bluetooth
+Warranty: 1 year standard, 2 years extended for ₹1,299
+Colors: Black, Red, Blue, Neon Green
+Battery per charge: 9 hours (ANC on), 13 hours (ANC off)
+Case battery: 28 hours charging
+Charging time: 1.5 hours per earbud, 2.5 hours case
+Weight: 5.8g per earbud
+IPX rating: IPX7 (immersible up to 1 meter)
+Drivers: 10mm dynamic driver
+Frequency response: 20Hz - 20kHz
+Codec support: SBC, AAC, aptX
+Special features: Secure fit ear hooks, voice command, sports modes integration
+Return window: 7 days
+Warranty coverage: Hardware defects, ANC, water resistance up to IPX7
+Not covered: Physical damage from falls, normal wear
+
+Product: Wireless Earbuds Gaming Pro
+Price: ₹7,999
+Features: Ultra-low latency (40ms), active noise cancellation, 30-hour total battery, RGB LED customization, gaming profiles
+Connectivity: Bluetooth 5.3, 2.4GHz low-latency mode
+Compatible with: PC, PS5, Xbox Series X/S, mobile devices
+Warranty: 1 year standard, 2 years extended for ₹1,699
+Colors: Black, RGB configurable
+Battery per charge: 8 hours
+Case battery: 30 hours
+Charging time: 2 hours per earbud, 3 hours case
+Weight: 6.2g per earbud
+IPX rating: IPX4
+Drivers: 10mm gaming driver
+Frequency response: 10Hz - 40kHz (gaming optimized)
+Codec support: SBC, AAC, aptX, aptX Adaptive
+Special features: Customizable EQ profiles, game-specific settings, low-latency mode, RGB lighting
+Return window: 7 days
+Warranty coverage: Hardware, battery (up to 8% loss), latency guarantee
+Not covered: Cosmetic damage, RGB light burn-in
+
+=== POWER BANK CATEGORY ===
+
+Product: Power Bank Ultra 20000mAh
+Price: ₹2,499
+Features: Fast charging 22.5W, dual USB ports (USB-A + USB-C), compact design, 24-month battery lifespan, LED power indicator
+Battery capacity: 20000mAh (72Wh)
+Input: USB-C (18W), USB-A (10W)
+Output: USB-A (10W), USB-C (22.5W)
+Weight: 450g
+Dimensions: 160mm x 80mm x 25mm
+Compatibility: All devices with USB-A or USB-C
+Warranty: 1 year standard, 2 years extended for ₹799
+Colors: Black, White, Silver, Blue
+Charging time: Full charge in 4.5 hours via USB-C
+Output ports: 2 simultaneous charging capable
+Special features: LED power display, multiple charging protocols (QC 3.0, PD 2.0), temperature control
+Safety: Overcharge protection, over-current protection, temperature monitoring, short circuit protection
+Recharge cycles: 500+ full cycles
+Return window: 7 days
+Warranty coverage: Battery health (minimum 80% after 1 year), hardware defects
+Not covered: Physical damage, liquid damage
+
+Product: Power Bank Ultra Max 30000mAh
+Price: ₹3,999
+Features: Super fast charging 65W, triple ports (2x USB-C + 1x USB-A), premium metal case, 24-month battery, digital display
+Battery capacity: 30000mAh (108Wh)
+Input: USB-C (65W), USB-A (10W)
+Output: USB-C 1 (65W), USB-C 2 (22.5W), USB-A (10W)
+Weight: 650g
+Dimensions: 170mm x 85mm x 28mm
+Compatibility: All devices with USB ports
+Warranty: 1 year standard, 2 years extended for ₹1,299
+Colors: Black, Silver, Graphite, Rose Gold
+Charging time: Full charge in 3 hours via USB-C
+Output ports: 3 simultaneous charging capable
+Special features: Digital display (remaining capacity %), fast charging for laptops, wireless charging capability
+Safety: 14-layer protection system, temperature control, voltage regulation
+Recharge cycles: 500+ full cycles
+Return window: 7 days
+Warranty coverage: Battery capacity (minimum 85% after 1 year), full hardware defects
+Not covered: Physical damage, unauthorized repairs
+
+Product: Power Bank Lite 10000mAh
+Price: ₹1,299
+Features: Compact lightweight design, dual USB ports, 18W fast charging, perfect for travel
+Battery capacity: 10000mAh (36Wh)
+Input: Micro-USB (10W), USB-C (10W)
+Output: USB-A (10W), USB-C (10W)
+Weight: 220g
+Dimensions: 130mm x 70mm x 20mm
+Compatibility: All devices with USB ports
+Warranty: 6 months standard, 1 year extended for ₹499
+Colors: Black, White, Mint Green
+Charging time: Full charge in 5 hours
+Output ports: 2 simultaneous charging capable
+Special features: Lightweight, pocket-sized, basic LED indicator
+Safety: Standard protection circuit, temperature monitoring
+Recharge cycles: 300+ full cycles
+Return window: 7 days
+Warranty coverage: Manufacturing defects only
+Not covered: Physical damage, battery degradation
+
+Product: Power Bank Solar 25000mAh
+Price: ₹3,499
+Features: Solar charging capability, dual USB-C ports, 45W output, rugged design for outdoor use, IP65 rated
+Battery capacity: 25000mAh (90Wh)
+Input: USB-C (45W), Solar panels (1.5W)
+Output: USB-C 1 (45W), USB-C 2 (22.5W)
+Weight: 550g
+Dimensions: 165mm x 82mm x 26mm
+Compatibility: All devices with USB-C
+Warranty: 1 year standard, 2 years extended for ₹1,199
+Colors: Khaki, Black, Olive
+Charging time: 4 hours via USB-C, 8-12 hours full solar charge (weather dependent)
+Solar panel area: 60 cm²
+Special features: Solar charging in emergency, IP65 waterproof rating, compass integrated, emergency LED light
+Safety: Surge protection, overcharge prevention, temperature control
+Recharge cycles: 500+ full cycles
+Return window: 7 days
+Warranty coverage: Battery, solar panel functionality, hardware defects
+Not covered: Solar panel damage from misuse, water damage beyond IP65
+
+Product: Power Bank Wireless 15000mAh
+Price: ₹2,999
+Features: Wireless charging pad, dual USB-C ports, 30W wired output, 15W wireless output
+Battery capacity: 15000mAh (54Wh)
+Input: USB-C (30W)
+Output: Wireless (15W), USB-C 1 (30W), USB-C 2 (15W)
+Weight: 400g
+Dimensions: 155mm x 75mm x 24mm
+Compatibility: All Qi-compatible devices
+Warranty: 1 year standard, 2 years extended for ₹999
+Colors: Black, White, Midnight Blue
+Charging time: Full charge in 3.5 hours
+Wireless charging area: 80mm x 80mm
+Special features: Flat surface for wireless charging, LED ring indicator, anti-slip base
+Safety: Foreign object detection, temperature control, overvoltage protection
+Recharge cycles: 500+ full cycles
+Return window: 7 days
+Warranty coverage: Wireless charging functionality, battery, hardware defects
+Not covered: Physical damage, coil damage
+
+Product: Power Bank Professional 40000mAh
+Price: ₹5,999
+Features: Ultra-high capacity, 100W output, 4 ports (2x USB-C, 2x USB-A), perfect for professionals, premium build
+Battery capacity: 40000mAh (144Wh)
+Input: USB-C (100W)
+Output: USB-C 1 (100W), USB-C 2 (30W), USB-A 1 (18W), USB-A 2 (18W)
+Weight: 850g
+Dimensions: 185mm x 90mm x 30mm
+Compatibility: All devices with USB ports
+Warranty: 1 year standard, 2 years extended for ₹1,999
+Colors: Black, Silver, Space Gray
+Charging time: Full charge in 2.5 hours
+Output ports: 4 simultaneous charging capable
+Special features: Digital display, USB-PD support, laptop charging capability, temperature display
+Safety: 18-layer protection, smart load detection
+Recharge cycles: 500+ full cycles
+Return window: 7 days
+Warranty coverage: Battery (minimum 80% after 1 year), all hardware, functionality guarantee
+Not covered: Physical damage, unauthorized modifications
+
+=== GENERAL POLICIES ===
+
+Return Policy:
+- Standard return window: 7 days from purchase date
+- No questions asked for unopened/unused products
+- Products in original packaging with all accessories eligible
+- Refund processing time: 5-7 business days after approval
+- Return shipping: Prepaid label provided for all eligible returns
+- Restocking fee: None for standard returns
+- Defective products: Full refund or replacement at customer choice
+- Opened products: Return allowed if defective (full refund)
+- Accessories: Must be included in original packaging
+
+Customer Support:
+- Operating hours: Monday to Saturday, 9:00 AM - 6:00 PM IST
+- Support email: support@techgear.com
+- Response time: Within 24 hours on business days
+- Support channels: Email, Phone (toll-free), Chat (website)
+- Toll-free number: 1800-TECHGEAR (1800-832-4432)
+- International support: WhatsApp available
+- Escalation: Senior support team for complex issues
+- Feedback: Customer satisfaction survey after resolution
+
+Warranty Types:
+1. Standard Warranty (included):
+   - Manufacturing defects
+   - Hardware failures
+   - Battery replacement (if defective)
+   - 1 year coverage
+
+2. Extended Warranty (optional):
+   - Accidental damage coverage
+   - Extended battery replacement
+   - 2-3 years additional coverage
+   - Costs vary: ₹499 - ₹3,499 depending on product
+
+3. Premium Warranty (highest tier):
+   - All extended warranty benefits
+   - Priority support
+   - Free shipping for repairs
+   - Same-day replacement in metro cities
+   - Available for premium products only
+
+Warranty Exclusions:
+- Physical damage from drops or impacts
+- Water damage beyond rated specifications
+- Cosmetic damage
+- Battery degradation beyond acceptable limits
+- Unauthorized repairs or modifications
+- Normal wear and tear
+- Software-related issues
+- Third-party product damage
+
+Shipping & Delivery:
+- Standard shipping: 3-5 business days (₹0 for orders > ₹5,000)
+- Express shipping: 1-2 business days (₹199)
+- Same-day delivery: Available in select metro cities (₹499)
+- Free shipping: Orders above ₹5,000 nationwide
+- Order tracking: Real-time updates via email and SMS
+- Delivery attempts: 2 attempts before return to warehouse
+- Packaging: Protective packaging for all products
+
+Pricing & Discounts:
+- Bulk discounts: Available for orders > 5 units
+- Student discount: 10% off with valid ID
+- Senior citizen discount: 5% off
+- First purchase discount: 10% for new customers
+- Bundle deals: Save up to 15% on product bundles
+- Seasonal sales: Up to 50% discount during festival season
+- EMI options: 0% EMI for 3-6 months on orders > ₹10,000
+
+Payment Methods:
+- Credit/Debit cards: All major cards (Visa, MasterCard, Amex)
+- Digital wallets: PhonePe, GooglePay, PayTM, Amazon Pay
+- Net banking: All major Indian banks
+- UPI: Supported
+- EMI: Available through partner banks
+- Cash on delivery: Available in select locations
+- Buy now pay later: Klarna, Amazon Fresh Pay
+
+Product Availability:
+- Stock status: Updated real-time
+- Pre-orders: Available for upcoming products
+- Backorder: Email notification when in stock
+- Similar products: Recommended based on preferences
+- Out of stock notification: Set alerts for notifications
+- Seasonal products: Available during specific seasons
+- Limited edition: First-come, first-served basis
+
+FAQs by Category:
+
+SmartWatch FAQs:
+Q1: How long does the battery last?
+A1: Battery life depends on usage. With screen always-on and continuous monitoring, expect 3-4 days. With moderate use, 5-7 days is typical.
+
+Q2: Can I swim with my SmartWatch?
+A2: Water resistance depends on model. Pro X is 5ATM (50m), suitable for snorkeling but not diving. Pro Max is 10ATM (100m), suitable for swimming. Essential is 3ATM, splash resistant only.
+
+Q3: Is the watch compatible with both iOS and Android?
+A3: Yes, all our SmartWatch models work with both iOS 12+ and Android 6.0+. Some advanced features may vary slightly by platform.
+
+Q4: Can I replace the battery myself?
+A4: No, battery replacement should only be done by authorized service centers. Unauthorized opening voids warranty.
+
+Q5: What should I do if my watch freezes?
+A5: Try force restart: Hold the power button for 10 seconds until you see the restart animation. If issue persists, contact support.
+
+Wireless Earbuds FAQs:
+Q1: How do I connect my earbuds to my device?
+A1: Open the case, enable Bluetooth on your device, select the earbud model from available devices, and confirm pairing.
+
+Q2: How do I turn on ANC?
+A2: Most models: Press and hold the right earbud for 2 seconds. Check your manual for specific model instructions.
+
+Q3: Can I use just one earbud?
+A3: Yes, all models support single earbud use. Simply use one earbud while the other charges in the case.
+
+Q4: Why is the battery draining faster than usual?
+A4: Battery drain increases with: ANC enabled, high volume, continuous connectivity, and cold temperatures. Try disabling ANC or lowering volume.
+
+Q5: Are the earbuds waterproof?
+A5: They are water-resistant but not waterproof. IPX4 rated models are splash resistant. IPX5-7 models are sweat and splash resistant. Avoid submersion beyond rating.
+
+Power Bank FAQs:
+Q1: How many times can I charge my phone?
+A1: Approximately 4-5 times for 20000mAh power bank with a typical 4000mAh phone. Actual times vary with phone capacity and charging efficiency.
+
+Q2: Is it safe to leave the power bank plugged in overnight?
+A2: Yes, all TechGear power banks have overcharge protection. They'll stop charging once full, but we recommend unplugging for optimal battery health.
+
+Q3: Can I use the power bank while it's charging?
+A3: Yes, you can charge multiple devices while the power bank itself is charging (pass-through charging).
+
+Q4: Why is the power bank getting warm?
+A4: Slight warmth is normal during fast charging. If it gets hot (too hot to touch), disconnect immediately and contact support.
+
+Q5: What's the difference between 22.5W and 65W charging?
+A5: Higher wattage = faster charging. 65W can fully charge a laptop in 3 hours, while 22.5W is for phones and tablets (typically 1.5-2 hours).
+
+General FAQs:
+Q1: What is your refund policy?
+A1: 7-day no-questions-asked returns for unopened products. Opened/used products are covered if defective. Refund within 5-7 business days.
+
+Q2: Do you offer discounts for bulk orders?
+A2: Yes, bulk discounts available for 5+ units. Contact sales@techgear.com for customized quotes.
+
+Q3: Is there a warranty on all products?
+A3: All products come with minimum 1-year standard warranty covering manufacturing defects. Extended warranty available at additional cost.
+
+Q4: Can I track my order?
+A4: Yes, you'll receive a tracking link via email and SMS upon shipment. Track in real-time on our website.
+
+Q5: How can I contact customer support?
+A5: Email: support@techgear.com | Phone: 1800-TECHGEAR | Hours: Mon-Sat, 9AM-6PM IST
+
+Product Comparison Chart:
+
+SmartWatch Category:
+- Most Affordable: Essential (₹7,999) - Basic fitness, 5-day battery
+- Best Value: Fitness Pro (₹12,999) - Advanced metrics, 6-day battery, sports focus
+- Premium Choice: Pro Max (₹22,999) - Best features, 10-day battery, cellular capable
+- Best for Kids: Kids Edition (₹4,999) - GPS tracking, parental controls
+
+Wireless Earbuds Category:
+- Most Affordable: Budget (₹1,999) - Basic ANC, 18-hour battery
+- Best Value: Sports Elite (₹6,999) - Durable, water resistant, 28-hour battery
+- Premium Choice: Premium Pro (₹8,999) - Best sound, 32-hour battery, spatial audio
+- Best for Gaming: Gaming Pro (₹7,999) - Ultra-low latency, RGB customization
+
+Power Bank Category:
+- Most Portable: Lite (₹1,299) - Ultra-compact, 10000mAh
+- Best Value: Ultra (₹2,499) - 20000mAh, fast charging, dual ports
+- Maximum Capacity: Professional (₹5,999) - 40000mAh, 4 ports, laptop charging
+- Best for Outdoors: Solar (₹3,499) - Solar charging, IP65 waterproof
+
+=== SEASONAL OFFERS ===
+
+Current Promotions (January 2026):
+- New Year Special: 15% off on all products
+- Winter Bundle: SmartWatch + Earbuds combo at 20% discount
+- Student Month: Extra 10% off with student ID (on top of 15% base discount)
+- Trade-in Program: Get ₹5,000 discount on new purchase with old electronics
+
+Upcoming Promotions:
+- Valentine's Day (Feb 14): Couple bundles at special price
+- Tech Monday (Every month): Flash sales on random products
+- Festival Season (Diwali): Up to 50% discount on select items
+- Year-end Clearance (Dec): 40% discount on outgoing models
+
+Loyalty Program:
+- Earn 1 point per ₹1 spent
+- 100 points = ₹500 discount voucher
+- Member benefits: Early access to sales, exclusive products
+- Free shipping for all members
+- Birthday month: Extra 15% off
+- Referral bonus: ₹1,000 credit per successful referral
+
+=== TECHNICAL SPECIFICATIONS SUMMARY ===
+
+SmartWatch Technical Specs:
+- Display types: AMOLED (Pro series), LCD (Essential)
+- Processor: Quad-core in premium models
+- RAM: 512MB - 2GB depending on model
+- Battery types: Li-Ion rechargeable
+- Charging methods: Magnetic dock, USB-C (newer models)
+- Operating systems: Proprietary OS (TechGear Watch OS 3.0+)
+- App store: 1000+ compatible apps
+
+Wireless Earbuds Technical Specs:
+- Driver sizes: 6mm - 10mm dynamic drivers
+- Frequency range: 20Hz - 20kHz (most models)
+- Impedance: 16 Ohm typical
+- Sensitivity: 95-100dB SPL
+- Charging connector types: USB-C (newer), Micro-USB (older)
+- Case charging method: Wired or wireless Qi
+
+Power Bank Technical Specs:
+- Cell types: Lithium-ion (LiPo) for high capacity
+- Voltage regulation: Multiple voltage outputs (5V, 9V, 12V, 20V)
+- Charging protocols: USB-PD 2.0, QC 3.0, AFC
+- Safety features: 14-18 layer protection systems
+- Efficiency: 85-95% power transfer efficiency
+- Operating temperature: -10°C to 50°C
+- Storage temperature: 0°C to 40°C
+
+=== PRODUCT RECOMMENDATIONS ===
+
+For Active Users:
+Recommended: SmartWatch Fitness Pro + Wireless Earbuds Sports Elite + Power Bank Solar
+Reason: Fitness tracking capabilities, water-resistant earbuds, solar backup for outdoor activities
+
+For Tech Enthusiasts:
+Recommended: SmartWatch Pro Max + Wireless Earbuds Premium Pro + Power Bank Professional
+Reason: Latest technology, premium features, multi-device charging capability
+
+For Budget-Conscious:
+Recommended: SmartWatch Essential + Wireless Earbuds Budget + Power Bank Lite
+Reason: Essential features, compact design, budget-friendly pricing
+
+For Families:
+Recommended: SmartWatch Kids Edition + SmartWatch Essential (for adults) + Power Bank Ultra
+Reason: Child safety, basic fitness tracking for adults, reliable backup power
+
+For Gamers:
+Recommended: SmartWatch Pro X (fitness during breaks) + Wireless Earbuds Gaming Pro + Power Bank Ultra Max
+Reason: Low-latency audio, long battery life, fast laptop charging
+
+=== SERVICE CENTERS ===
+
+Authorization & Service:
+- 50+ authorized service centers across India
+- Factory certified technicians
+- Genuine spare parts guarantee
+- Repair turnaround time: 3-5 business days
+- Replacement service for unrepairable products
+- Home pickup service available in metro areas
+- Service center locator: Visit website for nearest center
+
+Service Options:
+1. Warranty Service: Free for defects covered under warranty
+2. Out of Warranty: Paid service, charges based on issue type
+3. Accidental Damage Service: Available with damage protection plan
+4. Emergency Repair: Available in select metro cities (same day)
+
+Common Issues & Solutions:
+- Battery not charging: Reset device, use original charger
+- Bluetooth connectivity issues: Re-pair devices, clear cache
+- Screen freezing: Force restart, update software
+- Sound quality issues: Check volume, clean speaker grille
+- Water damage: Don't power on, take to service center immediately
+
+=== END OF KNOWLEDGE BASE ===

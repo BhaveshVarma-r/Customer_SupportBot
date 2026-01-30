@@ -1,0 +1,563 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TechGear Customer Support Chatbot</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+        }
+
+        .container {
+            width: 100%;
+            max-width: 800px;
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+            display: flex;
+            flex-direction: column;
+            height: 90vh;
+            max-height: 800px;
+        }
+
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 20px;
+            border-radius: 12px 12px 0 0;
+            text-align: center;
+        }
+
+        .header h1 {
+            font-size: 24px;
+            margin-bottom: 5px;
+            font-weight: 600;
+        }
+
+        .header p {
+            font-size: 13px;
+            opacity: 0.9;
+        }
+
+        .chat-area {
+            flex: 1;
+            overflow-y: auto;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+        }
+
+        .message {
+            display: flex;
+            margin-bottom: 12px;
+            animation: fadeIn 0.3s ease-in;
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(10px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .message.user {
+            justify-content: flex-end;
+        }
+
+        .message.bot {
+            justify-content: flex-start;
+        }
+
+        .message-content {
+            max-width: 70%;
+            padding: 12px 16px;
+            border-radius: 12px;
+            line-height: 1.4;
+            word-wrap: break-word;
+        }
+
+        .message.user .message-content {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border-radius: 18px 18px 4px 18px;
+        }
+
+        .message.bot .message-content {
+            background: #f0f0f0;
+            color: #333;
+            border-radius: 18px 18px 18px 4px;
+        }
+
+        .message-metadata {
+            font-size: 11px;
+            color: #999;
+            margin-top: 4px;
+            padding: 0 16px;
+            max-width: 70%;
+        }
+
+        .message.user .message-metadata {
+            text-align: right;
+        }
+
+        .typing-indicator {
+            display: flex;
+            gap: 4px;
+            padding: 12px 16px;
+            background: #f0f0f0;
+            border-radius: 18px 18px 18px 4px;
+            width: fit-content;
+        }
+
+        .typing-dot {
+            width: 8px;
+            height: 8px;
+            background: #999;
+            border-radius: 50%;
+            animation: typing 1.4s infinite;
+        }
+
+        .typing-dot:nth-child(2) {
+            animation-delay: 0.2s;
+        }
+
+        .typing-dot:nth-child(3) {
+            animation-delay: 0.4s;
+        }
+
+        @keyframes typing {
+            0%, 60%, 100% {
+                opacity: 0.5;
+                transform: translateY(0);
+            }
+            30% {
+                opacity: 1;
+                transform: translateY(-10px);
+            }
+        }
+
+        .input-area {
+            padding: 20px;
+            border-top: 1px solid #e0e0e0;
+            display: flex;
+            gap: 10px;
+        }
+
+        .input-group {
+            display: flex;
+            gap: 10px;
+            width: 100%;
+        }
+
+        input[type="text"] {
+            flex: 1;
+            padding: 12px 16px;
+            border: 1px solid #ddd;
+            border-radius: 24px;
+            font-size: 14px;
+            font-family: inherit;
+            transition: border-color 0.3s;
+        }
+
+        input[type="text"]:focus {
+            outline: none;
+            border-color: #667eea;
+            box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+        }
+
+        button {
+            padding: 12px 28px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border: none;
+            border-radius: 24px;
+            font-size: 14px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+
+        button:hover:not(:disabled) {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 20px rgba(102, 126, 234, 0.3);
+        }
+
+        button:active:not(:disabled) {
+            transform: translateY(0);
+        }
+
+        button:disabled {
+            opacity: 0.6;
+            cursor: not-allowed;
+        }
+
+        .status {
+            font-size: 12px;
+            color: #666;
+            padding: 8px 16px;
+            background: #f9f9f9;
+            border-radius: 4px;
+            margin-top: 4px;
+        }
+
+        .escalation-badge {
+            background: #ff9800;
+            color: white;
+            padding: 4px 8px;
+            border-radius: 4px;
+            font-size: 11px;
+            font-weight: 600;
+            margin-top: 4px;
+            display: inline-block;
+        }
+
+        .empty-state {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: 100%;
+            text-align: center;
+            color: #999;
+        }
+
+        .empty-state h2 {
+            font-size: 20px;
+            margin-bottom: 10px;
+            color: #666;
+        }
+
+        .empty-state p {
+            font-size: 14px;
+            color: #999;
+        }
+
+        .quick-actions {
+            display: flex;
+            gap: 10px;
+            margin-top: 15px;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+
+        .quick-button {
+            padding: 8px 14px;
+            background: #f0f0f0;
+            color: #333;
+            border: 1px solid #ddd;
+            border-radius: 20px;
+            font-size: 12px;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        .quick-button:hover {
+            background: #667eea;
+            color: white;
+            border-color: #667eea;
+            transform: translateY(-1px);
+        }
+
+        .error-message {
+            background: #ffebee;
+            color: #c62828;
+            padding: 12px 16px;
+            border-radius: 8px;
+            margin-top: 8px;
+            font-size: 13px;
+        }
+
+        .success-message {
+            background: #e8f5e9;
+            color: #2e7d32;
+            padding: 12px 16px;
+            border-radius: 8px;
+            margin-top: 8px;
+            font-size: 13px;
+        }
+
+        .loading-spinner {
+            display: inline-block;
+            width: 16px;
+            height: 16px;
+            border: 2px solid #f3f3f3;
+            border-top: 2px solid #667eea;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        .info-banner {
+            background: #e3f2fd;
+            color: #1976d2;
+            padding: 12px 16px;
+            border-radius: 8px;
+            font-size: 12px;
+            margin-bottom: 12px;
+        }
+
+        @media (max-width: 600px) {
+            .container {
+                height: 100vh;
+                max-height: none;
+                border-radius: 0;
+            }
+
+            .header {
+                border-radius: 0;
+            }
+
+            .message-content {
+                max-width: 85%;
+            }
+
+            .header h1 {
+                font-size: 20px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🔧 TechGear Support Bot</h1>
+            <p>Your 24/7 AI-powered customer support assistant</p>
+        </div>
+
+        <div class="chat-area" id="chatArea">
+            <div class="empty-state">
+                <h2>Welcome to TechGear Support! 👋</h2>
+                <p>Ask me about products, warranties, returns, or any technical support.</p>
+                
+                <div class="quick-actions">
+                    <button class="quick-button" onclick="sendQuickMessage('What products do you offer?')">
+                        📱 Products
+                    </button>
+                    <button class="quick-button" onclick="sendQuickMessage('What is your return policy?')">
+                        🔄 Returns
+                    </button>
+                    <button class="quick-button" onclick="sendQuickMessage('How long is the warranty?')">
+                        ✅ Warranty
+                    </button>
+                    <button class="quick-button" onclick="sendQuickMessage('How do I contact support?')">
+                        📞 Support
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <div class="input-area">
+            <div class="input-group">
+                <input 
+                    type="text" 
+                    id="messageInput" 
+                    placeholder="Type your question here..." 
+                    onkeypress="handleKeyPress(event)"
+                >
+                <button id="sendBtn" onclick="sendMessage()" type="button">
+                    Send
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        const chatArea = document.getElementById('chatArea');
+        const messageInput = document.getElementById('messageInput');
+        const sendBtn = document.getElementById('sendBtn');
+        let conversationId = generateId();
+        let isFirstMessage = true;
+
+        function generateId() {
+            return 'conv_' + Math.random().toString(36).substr(2, 9);
+        }
+
+        function handleKeyPress(event) {
+            if (event.key === 'Enter' && !event.shiftKey) {
+                event.preventDefault();
+                sendMessage();
+            }
+        }
+
+        function sendQuickMessage(message) {
+            messageInput.value = message;
+            sendMessage();
+        }
+
+        async function sendMessage() {
+            const query = messageInput.value.trim();
+            
+            if (!query) return;
+
+            // Clear empty state on first message
+            if (isFirstMessage) {
+                chatArea.innerHTML = '';
+                isFirstMessage = false;
+            }
+
+            // Disable input and send button
+            messageInput.disabled = true;
+            sendBtn.disabled = true;
+            messageInput.value = '';
+
+            // Add user message to chat
+            addMessage(query, 'user');
+
+            // Add typing indicator
+            const typingId = showTypingIndicator();
+
+            try {
+                // Send message to backend
+                const response = await fetch('/api/chat', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({
+                        query: query,
+                        conversation_id: conversationId
+                    })
+                });
+
+                if (!response.ok) {
+                    const error = await response.json();
+                    throw new Error(error.detail || 'Failed to get response');
+                }
+
+                const data = await response.json();
+
+                // Remove typing indicator
+                removeTypingIndicator(typingId);
+
+                // Add bot response
+                addMessage(data.answer, 'bot', {
+                    category: data.category,
+                    isEscalated: data.is_escalated,
+                    docsCount: data.retrieved_docs_count,
+                    timestamp: new Date(data.timestamp).toLocaleTimeString()
+                });
+
+                // Update conversation ID
+                conversationId = data.conversation_id;
+
+            } catch (error) {
+                console.error('Error:', error);
+                removeTypingIndicator(typingId);
+                addMessage(
+                    `Error: ${error.message}\n\nPlease try again or contact support@techgear.com`,
+                    'bot',
+                    { isError: true }
+                );
+            } finally {
+                // Re-enable input
+                messageInput.disabled = false;
+                sendBtn.disabled = false;
+                messageInput.focus();
+            }
+        }
+
+        function addMessage(text, sender, metadata = {}) {
+            const messageDiv = document.createElement('div');
+            messageDiv.className = `message ${sender}`;
+
+            const contentDiv = document.createElement('div');
+            contentDiv.className = 'message-content';
+            contentDiv.textContent = text;
+
+            messageDiv.appendChild(contentDiv);
+
+            // Add metadata if provided
+            if (metadata && Object.keys(metadata).length > 0) {
+                const metaDiv = document.createElement('div');
+                metaDiv.className = 'message-metadata';
+
+                let metaText = '';
+                if (metadata.timestamp) {
+                    metaText += `${metadata.timestamp}`;
+                }
+                if (metadata.category) {
+                    metaText += ` • Category: ${metadata.category}`;
+                }
+                if (metadata.docsCount !== undefined) {
+                    metaText += ` • Sources: ${metadata.docsCount}`;
+                }
+
+                if (metaText) {
+                    metaDiv.textContent = metaText;
+                    messageDiv.appendChild(metaDiv);
+                }
+
+                if (metadata.isEscalated) {
+                    const badge = document.createElement('div');
+                    badge.className = 'escalation-badge';
+                    badge.textContent = '⚠️ Escalated to Human Support';
+                    messageDiv.appendChild(badge);
+                }
+
+                if (metadata.isError) {
+                    contentDiv.className += ' error-message';
+                }
+            }
+
+            chatArea.appendChild(messageDiv);
+            chatArea.scrollTop = chatArea.scrollHeight;
+        }
+
+        function showTypingIndicator() {
+            const messageDiv = document.createElement('div');
+            messageDiv.className = 'message bot';
+            const id = 'typing_' + Date.now();
+            messageDiv.id = id;
+
+            const typingDiv = document.createElement('div');
+            typingDiv.className = 'typing-indicator';
+
+            for (let i = 0; i < 3; i++) {
+                const dot = document.createElement('div');
+                dot.className = 'typing-dot';
+                typingDiv.appendChild(dot);
+            }
+
+            messageDiv.appendChild(typingDiv);
+            chatArea.appendChild(messageDiv);
+            chatArea.scrollTop = chatArea.scrollHeight;
+
+            return id;
+        }
+
+        function removeTypingIndicator(id) {
+            const element = document.getElementById(id);
+            if (element) {
+                element.remove();
+            }
+        }
+
+        // Focus on input on load
+        window.addEventListener('load', () => {
+            messageInput.focus();
+        });
+    </script>
+</body>
+</html>
